@@ -17,3 +17,11 @@ library(tidyverse)
 ```{r cylinders}
 ggplot(mtcars, aes(x = factor(cyl), y = mpg)) + geom_boxplot()
 ```
+
+### Exercise 1
+
+(Type your answer to Exercise 1 here. This exercise does not require any R code.)
+
+### Exercise 2
+
+(Type your answer to Exercise 1 here. This exercise does not require any R code.)
